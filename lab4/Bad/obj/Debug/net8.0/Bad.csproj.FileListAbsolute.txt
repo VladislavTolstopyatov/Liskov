@@ -1,0 +1,14 @@
+C:\Users\vladi\source\repos\lab4\Bad\bin\Debug\net8.0\Bad.exe
+C:\Users\vladi\source\repos\lab4\Bad\bin\Debug\net8.0\Bad.deps.json
+C:\Users\vladi\source\repos\lab4\Bad\bin\Debug\net8.0\Bad.runtimeconfig.json
+C:\Users\vladi\source\repos\lab4\Bad\bin\Debug\net8.0\Bad.dll
+C:\Users\vladi\source\repos\lab4\Bad\bin\Debug\net8.0\Bad.pdb
+C:\Users\vladi\source\repos\lab4\Bad\obj\Debug\net8.0\Bad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\lab4\Bad\obj\Debug\net8.0\Bad.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\lab4\Bad\obj\Debug\net8.0\Bad.AssemblyInfo.cs
+C:\Users\vladi\source\repos\lab4\Bad\obj\Debug\net8.0\Bad.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\lab4\Bad\obj\Debug\net8.0\Bad.dll
+C:\Users\vladi\source\repos\lab4\Bad\obj\Debug\net8.0\refint\Bad.dll
+C:\Users\vladi\source\repos\lab4\Bad\obj\Debug\net8.0\Bad.pdb
+C:\Users\vladi\source\repos\lab4\Bad\obj\Debug\net8.0\Bad.genruntimeconfig.cache
+C:\Users\vladi\source\repos\lab4\Bad\obj\Debug\net8.0\ref\Bad.dll
